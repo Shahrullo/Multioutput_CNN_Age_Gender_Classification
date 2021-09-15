@@ -22,12 +22,12 @@ You can install the required packages by executing the following command.
 
 ## Jupyter Notebook
 
-`Gender Classification.ipynb`
+`Multioutput_CNN_Based_ Age_Gender_Classification.ipynb`
 
 The jupyter notebook describes the whole project. You can find the whole description inside the notebook.
 
 ### How to use it 
-Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google colab and run it.
+Open `Multioutput_CNN_Based_ Age_Gender_Classification.ipynb` on a jupyter notebook environment, or Google colab and run it.
 
 ## Training Result
 ```Got 11365/11649 with accuracy 97.56%```
@@ -47,4 +47,3 @@ Twitter - [Shahrullo1](https://twitter.com/Shahrullo1)
 Linkedin - [Shahrullohon Lutfillohonov](https://www.linkedin.com/in/shahrullohon-lutfillohonov-195b84203/)
 
 ## Licence
-[MIT](https://github.com/Shahrullo/Gender_Classification/blob/main/LICENSE)
