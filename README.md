@@ -1,6 +1,6 @@
 # Multioutput CNN Based Age Gender Classification
 
-The side project for multioutput Convolutional Neural Networks based Age and Gender prediction model. The model is conducted on [PyTorch](https://pytorch.org/) to classify both age ang gender. I made a model project with custom CNN that I introduced. The model is trained on [Adience unfiltered benchmark] (https://talhassner.github.io/home/projects/Adience/Adience-data.html). 
+The side project for multioutput Convolutional Neural Networks based Age and Gender prediction model. The model is conducted on [PyTorch](https://pytorch.org/) to classify both age ang gender. I made a model project with custom CNN that I introduced. The model is trained on [Adience unfiltered benchmark](https://talhassner.github.io/home/projects/Adience/Adience-data.html). 
 
 ## Prerequisites
 
