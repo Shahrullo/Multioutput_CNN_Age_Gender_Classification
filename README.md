@@ -30,13 +30,19 @@ The jupyter notebook describes the whole project. You can find the whole descrip
 Open `Multioutput_CNN_Based_ Age_Gender_Classification.ipynb` on a jupyter notebook environment, or Google colab and run it.
 
 ## Training Result
-```Got 11365/11649 with accuracy 97.56%```
+
+#### Age Accuracy
+```Got 2471 / 3709 with accuracy 66.62%```
 ![Confusion Matrix](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/res.PNG)
 
-#### Prediction Images with high accuracy
-![](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/pic.PNG)
+#### Images that our model mislabeled age with confident level
+![](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/mis.PNG)
 
-### Images that our model mislabeled with confident level
+#### Gender Accuracy
+```Got 3473 / 3709 with accuracy 93.64%```
+![Confusion Matrix](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/res.PNG)
+
+#### Images that our model mislabeled gender with confident level
 ![](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/mis.PNG)
 
 ## Author
